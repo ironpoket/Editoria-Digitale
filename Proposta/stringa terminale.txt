@@ -1,1 +1,2 @@
-pandoc -s title.txt 01-introduzione.md -o prova.epub
+pandoc -o prova.epub title.txt'
+01-intro/Introduzione.md '
