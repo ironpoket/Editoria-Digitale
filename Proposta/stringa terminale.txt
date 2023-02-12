@@ -1,0 +1,1 @@
+pandoc -s title.txt 01-introduzione.md -o prova.epub
