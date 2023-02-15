@@ -27,17 +27,20 @@ Le procedure da seguire sono le seguenti, se il dispositivo supporta il Face ID 
 
 Anche per i device Android l’app è Wallet scaricabile direttamente dall’app store. Il discorso della compatibilità è un po’ più complicato in questo caso, in quanto Android viene utilizzato da moltissimi produttori e sono tanti i modelli di smartphone prodotti ogni anno. I passaggi da seguire per capire se il device è compatibile sono i seguenti.
 
-Primo passaggio: Controllare lo stato di certificazione Play Protect
+Primo passaggio: Controllare lo stato di certificazione Play Protect.
+
 1. Aprire l’app Google Play Store .
 2. Toccare Menu e di seguito Impostazioni.
 3. Nella sezione “Certificazione Play Protect”, potrai controllare se il tuo dispositivo ha la certificazione Play Protect.
 
-Seconod passaggio: Verificare se il telefono dispone della tecnologia NFC e attivarla
+Secondo passaggio: Verificare se il telefono dispone della tecnologia NFC e attivarla.
+
 1. Aprire l’app Impostazioni sul tuo telefono Android.
 2. Toccare Dispositivi collegati.
 Se non presente questa opzione, cercarne una simile, come ad esempio “Wireless e reti”, “Connessioni” o “NFC”. Potrebbe essere necessario toccare Altro per visualizzare ulteriori impostazioni.
 3. Se presente “NFC” o un’opzione simile, significa che puoi pagare nei negozi con Google Pay.
 4. Attivare NFC. 
+
 Se non presente questa opzione, cercane una simile, come ad esempio “NFC e pagamento”.
 
 **Pagare con Google Pay**
