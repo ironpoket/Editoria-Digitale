@@ -57,4 +57,4 @@ language: it
 \newpage
 # Pagare con lo smartphone
 
-## Stocard
+# Ottimizzazione e Sicurezza
