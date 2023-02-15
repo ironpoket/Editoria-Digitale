@@ -1,1 +1,1 @@
-pandoc -o test.epub title.txt 01-Introduzione.md 02-IOS_e_Android.md 03-Operazioni_di_base.md 04-Fotografia.md 05-Impostazioni.md 06-Cloud.md 07-Scaricare_app.md 08-Applicazioni.md 09-Mobile_payment.md 
+pandoc -o test.epub title.txt ./Capitoli/01-Introduzione.md ./Capitoli/02-IOS_e_Android.md ./Capitoli/03-Operazioni_di_base.md ./Capitoli/04-Fotografia.md ./Capitoli/05-Impostazioni.md ./Capitoli/06-Cloud.md ./Capitoli/07-Scaricare_app.md ./Capitoli/08-Applicazioni.md ./Capitoli/09-Mobile_payment.md 
