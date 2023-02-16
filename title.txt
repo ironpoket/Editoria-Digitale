@@ -1,7 +1,0 @@
----
-title:  Lo Smartphone per tutti
-author: Gabriele Resigotti
-rights: Tutti i diritti riservati
-language: it
-cover-image: ./immagini/cover.png
---- 
