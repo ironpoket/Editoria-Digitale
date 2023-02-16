@@ -152,5 +152,10 @@ pagare su siti di e-commerce anche se attualmente i siti che supportano
 i due servizi sono pochi.</p>
 
 </div>
-<?php include './backend/script.php'; ?>
+<?php 
+
+include './backend/footer.php';
+include './backend/script.php'; 
+
+?>
 
