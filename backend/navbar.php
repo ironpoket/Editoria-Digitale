@@ -4,7 +4,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">Smartphone per tutti</a></h1>
+      <h1 class="logo"><a href="index.php">Smartphone per tutti</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -28,15 +28,16 @@
               <li><a href="#">App Store</a></li>
             </ul>
           </li>
-          <li class="dropdown"><a href="#"><span>App utili</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="applicazioni.php"><span>App utili</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Google Suite</a></li>
               <li><a href="#">Whatsapp</a></li>
-              <li><a href="#">Stocard</a></li>
+              <li><a href="applicazioni.php#Stocard">Stocard</a></li>
               <li><a href="#">Pharmaround</a></li>
               <li><a href="#">Dove conviene</a></li>
               <li><a href="#">Prezzi benzina</a></li>
               <li><a href="#">IO</a></li>
+              <li><a href="#">App per il fitness</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#">Pagamenti </a></li>
