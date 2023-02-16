@@ -1,0 +1,14 @@
+<?php
+
+include './backend/header.php';
+include './backend/navbar.php';
+
+?>
+
+
+<?php 
+
+include './backend/footer.php';
+include './backend/script.php'; 
+
+?>
