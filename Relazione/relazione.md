@@ -58,9 +58,7 @@ Le fonti per la realizzazione dell'intero progetto sono wikipedia per quanto rig
 \newpage
 ## Gestione documentale
 
-![Flusso documentale](./diagram.jpg)
-
-
+![Flusso documentale](./immagini/diagram.jpg)
 
 
 
