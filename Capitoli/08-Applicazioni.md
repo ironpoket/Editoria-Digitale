@@ -18,6 +18,7 @@ Stocard è un’applicazione disponibile per IOS e per Android che permette di p
 | Facile e intuitiva da utilizzare |
 | Interfaccia pulita e Minimale |
 
+
 ***Come Funziona***
 
 Durante il primo avvio dell’applicazione viene proposto di aggiungere la prima carta cliccando sul pulsante con il simbolo +, che si trova in basso a sinistra.
