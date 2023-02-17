@@ -1,0 +1,1 @@
+# Ottimizzazione e sicurezza

@@ -38,25 +38,18 @@ language: it
 
 ## Stocard
 
-\newpage
-
 ## Pharmaround
-
-\newpage
 
 ## Dove conviene
 
-\newpage
-
 ## Prezzi benzina
-
-\newpage
 
 ## Io
 
 ## App per il fitness
 
-\newpage
+## Yuka
+
 # Pagare con lo smartphone
 
 # Ottimizzazione e Sicurezza

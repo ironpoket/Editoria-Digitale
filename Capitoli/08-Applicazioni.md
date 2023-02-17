@@ -33,7 +33,6 @@ Con la funzione di “Assistente delle carte” e il GPS attivo verrà suggerita
 
 L’applicazione non presenta annunci e acquisti e permette di trovare le farmacie nei dintorni attraverso la geolocalizzazione fornendo orari e distanza; utile nel caso si sia in vacanza, ma anche per reperire farmaci necessari in poco tempo. L’App permette di applicare dei filtri nella ricerca ad esempiosi può chiedere  che vengano mostrate solo quelle aperte oppure è possibile impostare una distanza massima dalla posizione corrente. Ogni farmacia ha una scheda con indirizzo, numeri di telefono, una mappa che apre l’App di navigazione predefinita per trovare il luogo e gli orari di apertura dei giorni che devono venire; sono presenti anche i prodotti venduti divisi per macrocategorie e i servizi offerti quali misurazione della pressione, prenotazione di visite specialistiche o esami. Viene anche offerta la possibilità inversa, ovvero di filtrare in base al servizio come la consegna a domicilio, la misurazione del peso, elettrocardiogramma e molti altri oppure per la tipologia di prodotti venduti. Infine ,creando un’account, è possibile prenotare il proprio posto per usufruire dei servizi nelle farmacie convenzionate.
 
-\newpage
 
 ## Dove conviene
 
@@ -125,6 +124,10 @@ Per poter effettuare i pagamenti è necessario prima, dalla schermata portafogli
 ***Conclusioni***
 
 IO è un’ app semplice e utile anche solo per ricevere sempre le comunicazioni importanti da parte degli enti pubblici.
+
+## App per il fitness
+
+## Yuka
 
 
 
