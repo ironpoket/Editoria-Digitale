@@ -3,4 +3,4 @@ pandoc -o test.epub title.txt ./Capitoli/01-Introduzione.md ./Capitoli/02-IOS_e_
 pandoc ./Capitoli/08-Applicazioni.md -o test.epub
 
 pandoc ./Capitoli/09-Mobile_payment.md -o ./Html_pages/payments.html
-pandoc ./Capitoli/08-Applicazioni.md -o ./Html_pages/Applicazioni.html
+pandoc ./Capitoli/08-Applicazioni.md -o ./Html_pages/applicazioni.html
