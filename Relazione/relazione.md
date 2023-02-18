@@ -61,6 +61,7 @@ I punti principali su cui si vuole concetrare la guida sono:
 - Applicazioni di utilità
 - Pagamenti con lo smartphone
 - Ottimizzazione e sicurezza (Memoria piena furto o smarrimento)
+\newpage
 
 Nel dettaglio per il capitolo sulle App si sono individuate le seguenti: 
 
@@ -93,11 +94,12 @@ Il primo flusso descrive il processo produttivo finalizzato alla creazione di un
 Il primo vero passaggio non presente nello schema è delineare gli argomenti riguardo gli articoli dei mesi successi.
 Questi possono essere frutto di necessità emerse durante attività collaterali quali domande giunte in redazione, necessità emerse durante i corsi ad esempio creare un PDF da un immagine e infine idee dell'autore su app che possono essere di utilità per i Senior. 
 
-![Flusso documentale](./immagini/diagram.jpg)
+![Flusso creazione Articolo](./immagini/diagramA.jpg)
+\newpage
 
 Il secondo flusso invece descrive le attività svolte durante la realizzazione del progetto
 
-! inserire flusso
+![Flusso di lavoro del progetto](./immagini/diagrammafs.jpg)
 
 ## Tecnologie adottate
 
@@ -140,7 +142,16 @@ Una parte non implementata per il progetto ma sicuramente da implementare per un
 ## Conclusioni
 
 Gli obiettivi prefissati sono stati parzialmente raggiunti in quanto non si è riusciti a realizzare il prodotto nella sua interezza.
-Sono stati però definiti i capitoli e i punti più importanti da trattare per l'ebook. Sicuramente Pandoc 
+Sono stati però definiti i capitoli e i punti più importanti da trattare per l'ebook. Sicuramente Pandoc è stato particolarmente utile e ha accellerato il processo produttivo con un solo file md è possibile infatti ottenere file con diverse codifiche.
+Una criticità si è riscontrata nell'integrazione della pagina HTML con il template scelto; in quanto, nonostante l'utilizzo del php come evidenziato in precedenza, l'integrazione del template nella pagina web deve essere fatto manualmente per ogni file.
+
+## Sitografia
+
+Grey-Panthers [https://www.grey-panthers.it/]
+
+Irresistibili App [https://www.grey-panthers.it/technology/irresitibili-app/]
+
+
 
 
 
