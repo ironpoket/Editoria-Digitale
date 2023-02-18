@@ -133,6 +133,8 @@ Nella tabella sono presenti le principali tecnologie adottate, non vengono citat
 Per lo sviluppo della piattaforma Web si è scelto di utilizzare il Framework Bootstrap principalemente perchè in grado di adattare una pagina web al dispositivo dal quale viene consultata. Si è scelto di utlizzare il template basato sulla tecnologia sopra citata per implementare la piattaforma. 
 Se si realizzasse il progetto nella sua integrità la piattaforma sarebbe più simile al sito del quotidiano per trasmettere all'utente finale l'idea di essere in un'ambiente a lui familiare e affine al quotidiano.
 
+Template: One Page [https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/]
+
 Xampp è servito per emulare l'architettura client server su un'unico terminale.
 
 La scelta di usare Php è stata determinata da una delle sue molteplici funzionalità, ovvero la possibilità di "scomporre" una pagina HTML in molteplici sezioni più piccole. Si sono creati i file contenti parti della pagina HTML. Dopo la conversione da MD a HTML con Pandoc è bastato cambiare l'estensione delle pagine prodotte in PHP e includere i file contententi ad esempio Header, Footer e Navbar.
