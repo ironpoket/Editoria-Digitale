@@ -1,7 +1,7 @@
 <?php
 
-include './backend/header.php';
-include './backend/navbar.php';
+include './frontend/header.php';
+include './frontend/navbar.php';
 
 ?>
 
@@ -269,7 +269,7 @@ comunicazioni importanti da parte degli enti pubblici.</p>
 
 <?php 
 
-include './backend/footer.php';
-include './backend/script.php'; 
+include './frontend/footer.php';
+include './frontend/script.php'; 
 
 ?>
