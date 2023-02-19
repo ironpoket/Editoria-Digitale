@@ -78,8 +78,7 @@ Nel dettaglio per il capitolo sulle App si sono individuate le seguenti:
 ### Sviluppo dei contenuti
 
 Si specifica che questa voce non riguarda solamente un'attività svolta durante la realizzazione del progetto.
-Considerando il pubblico di riferimento è necessario ricordarsi quanto segue: il linguaggio usato deve essere semplice, la terminologi tecnica deve essere minima e sempre spiegata, astrarre i concetti fondamentali la teoria serve ma non è l'interesse principale per questo pubblico e il cuore deve essere la spiegazione della pratica con foto ed esempi. 
-Come si raggiunge l'obiettivo e i passaggi
+Considerando il pubblico di riferimento è necessario ricordarsi quanto segue: il linguaggio usato deve essere semplice, la terminologi tecnica deve essere minima e sempre spiegata, è necessario astrarre i concetti fondamentali, la teoria serve ma non è l'interesse principale per questo pubblico, il cuore deve essere la spiegazione della pratica con foto ed esempi.
 
 ### Fonti
 
@@ -97,7 +96,7 @@ Questi possono essere frutto di necessità emerse durante attività collaterali 
 ![Flusso creazione Articolo](./immagini/diagramA.jpg)
 \newpage
 
-Il secondo flusso invece descrive le attività svolte durante la realizzazione del progetto
+Il secondo flusso invece descrive le attività svolte durante la realizzazione del progetto.
 
 ![Flusso di lavoro del progetto](./immagini/diagrammafs.jpg)
 
@@ -117,7 +116,7 @@ Markdown è un linguaggio estremamente semplice, è stato scelto perchè pensand
 ePub permette di avere un'unico formato compatibile con la maggior parte di Ereader in commercio e numerose piattaforme di lettura.
 L'utente finale può modificare il font, la grandezza e altri parametri per meglio adattarlo alle sue esigenze.
 
-Github, oltre alla gestione delle versione, permette di condividere l'intero progetto permettendo di apportare modifiche a tutti gli utenti convolti. La gestione dei capitoli del libro su molteplici file Markdown permetterebbe di individuare e segnalare eventuali problemi o modifiche piuttosto che avere tutto su un'unico file. Nel file comandi.txt all'interno della cartella relazione è possibile visionare alcuni dei comandi utilizzati per la realizzazione del progetto
+Github, oltre alla gestione delle versione, permette di condividere l'intero progetto permettendo di apportare modifiche a tutti gli utenti convolti. La gestione dei capitoli del libro su molteplici file Markdown permetterebbe di individuare e segnalare eventuali problemi o modifiche piuttosto che avere tutto su un'unico file. Nel file comandi.txt all'interno della cartella relazione è possibile visionare alcuni dei comandi utilizzati per la realizzazione del progetto.
 
 ### Tecnologie per lo svilluppo della piattaforma
 
@@ -130,16 +129,16 @@ Github, oltre alla gestione delle versione, permette di condividere l'intero pro
 
 Nella tabella sono presenti le principali tecnologie adottate, non vengono citate CSS e Javascript...
 
-Per lo sviluppo della piattaforma Web si è scelto di utilizzare il Framework Bootstrap principalemente perchè in grado di adattare una pagina web al dispositivo dal quale viene consultata. Si è scelto di utlizzare il template basato sulla tecnologia sopra citata per implementare la piattaforma. 
+Per lo sviluppo della piattaforma Web si è scelto di utilizzare il Framework Bootstrap principalemente perchè in grado di adattare una pagina web al dispositivo dal quale viene consultata. Si è scelto di utlizzare il template One Page basato sulla tecnologia sopra citata per implementare la piattaforma. 
 Se si realizzasse il progetto nella sua integrità la piattaforma sarebbe più simile al sito del quotidiano per trasmettere all'utente finale l'idea di essere in un'ambiente a lui familiare e affine al quotidiano.
 
 Template: One Page [https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/]
 
 Xampp è servito per emulare l'architettura client server su un'unico terminale.
 
-La scelta di usare Php è stata determinata da una delle sue molteplici funzionalità, ovvero la possibilità di "scomporre" una pagina HTML in molteplici sezioni più piccole. Si sono creati i file contenti parti della pagina HTML. Dopo la conversione da MD a HTML con Pandoc è bastato cambiare l'estensione delle pagine prodotte in PHP e includere i file contententi ad esempio Header, Footer e Navbar.
+La scelta di usare Php è stata determinata da una delle sue molteplici funzionalità, ovvero la possibilità di "scomporre" una pagina HTML in molteplici sezioni più piccole. Si sono creati i file contenti parti della pagina. Dopo la conversione da MD a HTML con Pandoc è bastato cambiare l'estensione delle pagine prodotte in PHP e includere i file contententi ad esempio Header, Footer e Navbar.
 
-Una parte non implementata per il progetto ma sicuramente da implementare per una realizzazione del prodotto finale è il controllo degli accessi, in quanto se il manuale viene venduto il sito non può essere accessibile a chiunque, e un sistema per l'abilitazione delle risorse web. Ad esempio un codice univoco fornito con l'ebook che associato all'account permette di accedere alle risorse.
+Una parte non implementata per il progetto ma sicuramente da implementare per una realizzazione del prodotto finale è il controllo degli accessi, in quanto se il manuale viene venduto il sito non può essere accessibile a chiunque, e un sistema per l'abilitazione delle risorse web. Ad esempio un codice univoco fornito con l'ebook che associato all'account permette di accedere ai contenuti.
 
 ## Conclusioni
 
@@ -147,7 +146,7 @@ Gli obiettivi prefissati sono stati parzialmente raggiunti in quanto non si è r
 Sono stati però definiti i capitoli e i punti più importanti da trattare per l'ebook. Sicuramente Pandoc è stato particolarmente utile e ha accellerato il processo produttivo con un solo file md è possibile infatti ottenere file con diverse codifiche.
 Una criticità si è riscontrata nell'integrazione della pagina HTML con il template scelto; in quanto, nonostante l'utilizzo del php come evidenziato in precedenza, l'integrazione del template nella pagina web deve essere fatto manualmente per ogni file.
 
-## Sitografia
+## Sitografia utilizzata
 
 Grey-Panthers [https://www.grey-panthers.it/]
 
