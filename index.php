@@ -19,7 +19,7 @@ include './frontend/navbar.php';
           <div class="icon-box">
             <div class="icon"><i class="ri-stack-line"></i></div>
             <h4 class="title"><p>Semplice</p></h4>
-            <p class="description">Scritta apposta per te un senior che ha voglio di una seconda giovinezza</p>
+            <p class="description">Scritta apposta per te un senior che ha voglio di una seconda giovinezza.</p>
           </div>
         </div>
 
@@ -27,23 +27,23 @@ include './frontend/navbar.php';
           <div class="icon-box">
             <div class="icon"><i class="ri-palette-line"></i></div>
             <h4 class="title"><p>Sempre disponibile</p></h4>
-            <p class="description">Hai qualche dubbio ma non hai a disposizione il tuo libro? Vieni qui troverai tutte le risors4 del libro</p>
+            <p class="description">Hai qualche dubbio ma non hai a disposizione il tuo libro? Vieni qui troverai tutte le risposte.</p>
           </div>
         </div>
 
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="400">
           <div class="icon-box">
             <div class="icon"><i class="ri-command-line"></i></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+            <h4 class="title"><p href="">Il tuo libro online</p></h4>
+            <p class="description">Scegli il capitolo dalla barra di navigazione.</p>
           </div>
         </div>
 
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="500">
           <div class="icon-box">
             <div class="icon"><i class="ri-fingerprint-line"></i></div>
-            <h4 class="title"><a href="">Nemo Enim</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <h4 class="title"><a href="">Vieni a trovarci</a></h4>
+            <p class="description">Questo è solo un portale per consultar il tuo libro ricordati di venirci a trovare nel sito principale tante attività riservate a te!</p>
           </div>
         </div>
 
@@ -58,15 +58,13 @@ include './frontend/navbar.php';
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>About Us</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. </p>
+          <h2>Riguardo a noi</h2>
         </div>
 
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Il libro che hai comprato e questo sito sono frutto di anni di lavoro e di passione per la tecnologia e per i Senior con la S maiuscola che hanno voglia di imparare e di vivere una seconda giovinezza.
             </p>
             <ul>
               <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
