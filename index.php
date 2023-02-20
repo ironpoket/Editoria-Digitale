@@ -18,16 +18,16 @@ include './frontend/navbar.php';
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
           <div class="icon-box">
             <div class="icon"><i class="ri-stack-line"></i></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            <h4 class="title"><p>Semplice</p></h4>
+            <p class="description">Scritta apposta per te un senior che ha voglio di una seconda giovinezza</p>
           </div>
         </div>
 
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
           <div class="icon-box">
             <div class="icon"><i class="ri-palette-line"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+            <h4 class="title"><p>Sempre disponibile</p></h4>
+            <p class="description">Hai qualche dubbio ma non hai a disposizione il tuo libro? Vieni qui troverai tutte le risors4 del libro</p>
           </div>
         </div>
 
